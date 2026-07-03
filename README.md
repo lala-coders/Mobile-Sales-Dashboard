@@ -99,8 +99,8 @@ Motorola-Sales-Dashboard/
 ---
 
 ## 📸 Dashboard Preview
+https://github.com/lala-coders/Mobile-Sales-Dashboard/blob/main/Dashboard.png
 
-(Add your dashboard screenshot here.)
 
 ---
 
